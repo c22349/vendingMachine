@@ -1,0 +1,39 @@
+section {
+    margin-bottom: 20px;
+    border-top: solid 1px;
+}
+
+table {
+    width: 660px;
+    border-collapse: collapse;
+}
+
+table, tr, th, td {
+    border: solid 1px;
+    padding: 10px;
+    text-align: center;
+}
+
+caption {
+    text-align: left;
+}
+
+.text_align_right {
+    text-align: right;
+}
+
+.drink_img_width {
+    width: 100px;
+}
+
+.drink_name_width {
+    width: 100px;
+}
+
+.input_text_width {
+    width: 60px;
+}
+
+.status_false {
+    background-color: #A9A9A9;
+}

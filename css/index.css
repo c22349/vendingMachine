@@ -1,0 +1,33 @@
+#flex {
+    width: 500px;
+}
+
+#flex .drink {
+    /*border: solid 1px;*/
+    width: 120px;
+    height: 210px;
+    text-align: center;
+    margin: 10px;
+    float: left; 
+}
+
+#flex span {
+    display: block;
+    margin: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.img_size {
+    width: auto;
+    height: 125px;
+}
+
+.red {
+    color: #FF0000;
+}
+
+#submit {
+    clear: both;
+}
