@@ -20,7 +20,7 @@
 <li>購入ボタンを押すと購入結果ページ（result.php）へ遷移します。</li>
 <br>
 <p><a href="http://codecamp22349.lesson7.codecamp.jp//php/21/php/index.php" target="_blank">自動販売機 （Web上へ）</a></p>
-
+<br>
 <h3>管理ページ：tool.php</h3>
 <li>「ドリンク名」「値段」「在庫数」「公開ステータス」を入力し、商品を追加できます。</li>
 <li>商品を追加する場合、「商品画像」を指定してアップロードできます。</li>
