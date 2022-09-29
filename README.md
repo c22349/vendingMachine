@@ -19,7 +19,7 @@
 <li>ドリンクの在庫が0の場合、ドリンクを選択するラジオボタンは表示せず、「売り切れ」と表示されます。</li>
 <li>購入ボタンを押すと購入結果ページ（result.php）へ遷移します。</li>
 <br>
-<p><a href="http://codecamp22349.lesson7.codecamp.jp//php/21/php/index.php" target="_blank">自動販売機 （Web上へ）</a></p>
+<p><a href="http://codecamp22349.lesson7.codecamp.jp//php/21/php/index.php" target="_blank">自動販売機（Web上へ）</a></p>
 <br>
 <h3>管理ページ：tool.php</h3>
 <li>「ドリンク名」「値段」「在庫数」「公開ステータス」を入力し、商品を追加できます。</li>
@@ -29,4 +29,4 @@
 <li>商品一覧から指定ドリンクの公開ステータス「公開」あるいは「非公開」の変更できます</li>
 <li>アップロードできる「商品画像」のファイル形式は「JPEG」、「PNG」のみ可能です。</li>
 <br>
-<p><a href="http://codecamp22349.lesson7.codecamp.jp//php/21/php/tool.php" target="_blank">自動販売機管理ツール （Web上へ）</a></p>
+<p><a href="http://codecamp22349.lesson7.codecamp.jp//php/21/php/tool.php" target="_blank">自動販売機管理ツール（Web上へ）</a></p>
