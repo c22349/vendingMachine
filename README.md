@@ -1,5 +1,4 @@
-# vendingMachine
-<h1>自動販売機サービス</h1>
+# 自動販売機サービス
 <h2>環境</h2>
 <li>PHP</li>
 <li>MySQL</li>
