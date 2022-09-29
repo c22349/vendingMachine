@@ -2,7 +2,6 @@
 
 <h2>制作環境</h2>
 <li>PHP</li>
-<li>Visual Studio Code</li>
 
 <h2>構成</h2>
 <li>購入ページ：index.php</li>
